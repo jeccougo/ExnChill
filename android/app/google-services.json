@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613138513117",
+    "project_id": "exnchill",
+    "storage_bucket": "exnchill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613138513117:android:74af1d76ad1b5e25a6ef34",
+        "android_client_info": {
+          "package_name": "com.example.filmhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613138513117-i1tm592qocjsb635mkguvfbr8hfncert.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANYdFSHChWnlN40OVamwf1B5itO_VvCy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613138513117-i1tm592qocjsb635mkguvfbr8hfncert.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
